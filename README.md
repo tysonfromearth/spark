@@ -122,3 +122,8 @@ in the online documentation for an overview on how to configure Spark.
 
 Please review the [Contribution to Spark guide](https://spark.apache.org/contributing.html)
 for information on how to get started contributing to the project.
+
+## Community
+
+Please refer to [Spark community resources page](https://spark.apache.org/community.html)
+to connect to the Spark community.
